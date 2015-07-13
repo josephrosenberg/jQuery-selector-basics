@@ -6,7 +6,7 @@ resources: 5
 
 # Code Challenge - Exploring jQuery Selectors
 
-In this challenge you will work in groups to practice using jquery to select different elements in the page using all of the different jQuery selectors available. 
+In this lab you will practice using jquery to select different elements in the page using all of the different jQuery selectors available. 
 
 ## Getting Started
 In js/selectors.js write the code neccesary to select 5 different elements from the index.html page. Make use of the CSS selectors documented at the [link here](http://api.jquery.com/category/selectors/). As en example of some things you can do with these methods, you can use the addClass() method documented [here](http://api.jquery.com/addClass/), or the wrap() method documented [here](http://api.jquery.com/wrap/) to apply a css class to the selected elements or wrap the selected elements within another html element. Try experimenting with these - for example, see what adding the class 'pinky' will do. Don't forget to use the developer tools to explore elements relationships to each other and to find ways of selecting them.
